@@ -212,5 +212,6 @@
         50.53448,
         -140.0
     ],
-    "angle": 16384
+    "angle": 16384,
+  "usesPosition": false
 }
